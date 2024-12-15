@@ -1,1 +1,1 @@
-alert('if i change it here?')
+alert('changing to github pages to see how fast it updates?')
